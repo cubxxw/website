@@ -276,17 +276,17 @@ The following table lists distributions which are <em>maintained</em> by their r
       </tr>
       <tr>
         <td>
-          QBO
+          QBO GPU Cloud
         </td>
         <td>
           {{< kf-version-notice >}}{{% qbo/latest-version %}}{{< /kf-version-notice >}}
-          <sup><a href="https://github.com/alexeadem/qbo-ce/blob/main/CHANGELOG.md">[release notes]</a></sup>
+          <sup><a href="https://docs.qbo.io/news/2025/05/09/api-1-5-14-released/">[release notes]</a></sup>
         </td>
         <td>
           QBO Kubernetes Engine (QKE)
         </td>
          <td>
-          <a href="https://docs.qbo.io/#/qke?id=kubeflow">Website</a>
+          <a href="https://docs.qbo.io/demos/kubeflow">Website</a>
         </td>
       </tr>
       <tr>
@@ -320,7 +320,7 @@ try out the end-to-end Kubeflow Platform capabilities.
  
 If you want a stable / conservative experience we recommend to use the [latest stable release](https://github.com/kubeflow/manifests/releases): 
 - [**Kubeflow 1.10:**](/docs/releases/kubeflow-1.10/)
-  - [`v1.10.0`](https://github.com/kubeflow/manifests/tree/v1.10.0#installation)
+  - [`v1.10.1`](https://github.com/kubeflow/manifests/tree/v1.10.1#installation)
 
 You can also install the master branch of [`kubeflow/manifests`](https://github.com/kubeflow/manifests) by following the instructions [here](https://github.com/kubeflow/manifests?tab=readme-ov-file#installation) and provide us feedback.
 
