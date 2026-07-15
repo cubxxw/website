@@ -5,7 +5,7 @@ weight = 20
 aliases = ["/docs/contributing/"]
 +++
 
-This document is the single source of truth for how to contribute to the code base.
+This document is the single source of truth for how to contribute to Kubeflow.
 We'd love to accept your patches and contributions to this project.
 There are just a few small guidelines you need to follow.
 
@@ -94,6 +94,15 @@ To ensure smooth collaboration and avoid duplicate work, please follow these gui
   - A maintainer has explicitly asked for additional contributions
 
 Following these guidelines helps maintain a collaborative and efficient community, reduces wasted effort, and ensures everyone's contributions are valued.
+
+### Contributions outside the Kubeflow components (including non-technical contributions)
+
+- **Documentation**: Contribute to technical documentation by improving the accuracy and clarity of Kubeflow technical documentation and/or fixing stale information and ensuring all new content follows the standards set in the [Kubeflow Documentation Style Guide](style-guide.md).
+- **Blog posts**: Write about Kubeflow for the Kubeflow blog or CNCF publications to help the community learn more about the project. Topics can include lessons from real-world use cases, Kubeflow integrations, release news, contribution stories, or practical guidance.
+- **Event outreach**: Raise awareness of Kubeflow by speaking at events, representing Kubeflow at community booths or tables, helping organize events, or serving on program committees or as a program chair.
+- **Community engagement**: Engage with end users and contributors in the Kubeflow community by participating in or leading community meetings, managing or promoting social media, and discussing ways to enrich the Kubeflow ecosystem.
+- **Technical content**: Create webinars, demos, tutorials, publications, e-books, books, and white papers that showcase Kubeflow use cases, integrations, and solution architectures.
+- **Website contributions**: Contribute to website design, create new content, maintain the website, or review PRs.
 
 ## Owners files and PR workflow
 
